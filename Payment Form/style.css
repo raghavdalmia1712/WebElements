@@ -18,7 +18,7 @@ body{
 }
 .wrapper h2{
     background-color: #fcfcfc;
-    color: #7ed321;
+    color: #0d6efd;
     font-size: 24px;
     padding: 10px;
     margin-bottom: 20px;
@@ -28,7 +28,7 @@ body{
 
 h4{
     padding-bottom: 5px;
-    color: #7ed321;
+    color: #0d6efd;
 }
 
 .input-group{
@@ -63,10 +63,10 @@ h4{
 }
 
 .name:focus, .dob:focus{
-    -webkit-box-shadow: 0 0 2px 1px #7ed32180;
-    -moz-box-shadow: 0 0 2px 1px #7ed32180;
-    box-shadow: 0 0 2px 1px #7ed32180;
-    border: 1px solid #7ed321;
+    -webkit-box-shadow: 0 0 2px 1px #0d6efd80;
+    -moz-box-shadow: 0 0 2px 1px #0d6efd80;
+    box-shadow: 0 0 2px 1px #0d6efd80;
+    border: 1px solid #0d6efd;
 }
 
 .input-box .icon{
@@ -89,9 +89,9 @@ h4{
 }
 
 .name:focus + .icon{
-    background-color: #7ed321;
+    background-color: #0d6efd;
     color: #fff;
-    border-right: 1px solid #7ed321;
+    border-right: 1px solid #0d6efd;
     border: none;
     transition: 1s;
 }
@@ -133,7 +133,7 @@ h4{
 }
 
 .radio:checked + label{
-    background-color: #7ed321;
+    background-color: #0d6efd;
     color: #fff;
     transition: 0.5s;
 }
@@ -153,7 +153,7 @@ h4{
 }
 
 .input-box select:focus{
-    background-color: #7ed321;
+    background-color: #0d6efd;
     color: #fff;
     text-align: center;
 }
@@ -162,7 +162,7 @@ button{
     width: 100%;
     background: transparent;
     border: none;
-    background: #7ed321;
+    background: #0d6efd;
     color: #fff;
     padding: 15px;
     border-radius: 4px;
@@ -172,5 +172,5 @@ button{
 
 button:hover{
     cursor: pointer;
-    background: #5eb105;
+    background: #0d6efe;
 }
