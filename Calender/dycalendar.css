@@ -13,6 +13,7 @@
  */
 
 .dycalendar-container {
+    background color:#F4EEEA;
     display: inline-block;
     border : 1px solid #eee;
 }
